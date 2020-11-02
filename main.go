@@ -8,5 +8,5 @@ import (
 
 func main() {
 	u := shortuuid.New()
-	fmt.Printf("ID#:%s", u)
+	fmt.Printf("#ID:%s", u)
 }
